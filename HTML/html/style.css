@@ -1,0 +1,29 @@
+.fond {
+    background-color:beige;
+    font-size: 50px;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    }
+
+.fond2 {
+    background-color: beige;
+}
+
+body{
+    margin: 0%;
+}
+
+h1{
+    text-align: center;
+}
+
+img{
+    padding: -20%;
+}
+
+.wewe{
+    width: 50%;
+}
+.centre{
+    text-align: center;
+}
